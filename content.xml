@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605091634145KZUQT</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050916341498A2K2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>CREAMOS NUESTRO CUENTO ILUSTRADO DIGITAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Destinado a la clase de 1º de Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Isabel Rodríguez Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto consistirá en la creación de un cuento ilustrado digital con la aplicación educativa Book Creator destinado a un grupo de 1º de Primaria.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778325412572</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778325870479-8vyix7tip</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN DE LA MISIÓN: EL SECRETO DE PÍXEL</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DE LA MISIÓN: EL SECRETO DE PÍXEL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN DE LA MISIÓN: EL SECRETO DE PÍXEL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778325870479-8vyix7tip</odePageId>
+      <odeBlockId>block-1778327404108-usnckucep</odeBlockId>
+      <blockName>BIENVENIDA DE PÍXEL</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778325870479-8vyix7tip</odePageId>
+          <odeBlockId>block-1778327404108-usnckucep</odeBlockId>
+          <odeIdeviceId>idevice-1778327404101-wn9g413ja</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 560px;" id="fig_ubvo16vy8"><video width="560" height="315" controls="controls" data-mce-fragment="1">
+<source src="{{context_path}}/content/resources/video 1.mp4" type="video/mp4" /></video>
+<figcaption class="figcaption"><span class="author">Ana Isabel Rodríguez Fernández</span>. <span class="title"><em>EL SECRETO DE PÍXEL</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778327404101-wn9g413ja","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 560px;\" id=\"fig_ubvo16vy8\"><video width=\"560\" height=\"315\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"{{context_path}}/content/resources/video 1.mp4\" type=\"video/mp4\" /></video>\n<figcaption class=\"figcaption\"><span class=\"author\">Ana Isabel Rodríguez Fernández</span>. <span class=\"title\"><em>EL SECRETO DE PÍXEL</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778325870479-8vyix7tip</odePageId>
+      <odeBlockId>block-1778327537184-gmfj8bjbx</odeBlockId>
+      <blockName>¿Qué hacer para ayudar a Píxel?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778325870479-8vyix7tip</odePageId>
+          <odeBlockId>block-1778327537184-gmfj8bjbx</odeBlockId>
+          <odeIdeviceId>idevice-1778327537179-4t8qcmw2r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/unnamed.png" width="1536" height="2752" alt="" />
+<figcaption class="figcaption"><a href="Notebook LM" class="author" target="_blank" rel="noopener">Ana Isabel Rodríguez Fernández</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778327537179-4t8qcmw2r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/unnamed.png\" width=\"1536\" height=\"2752\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"Notebook LM\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ana Isabel Rodríguez Fernández</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778325870479-8vyix7tip</odePageId>
+      <odeBlockId>block-1778328313751-2g8bkphqh</odeBlockId>
+      <blockName>ACTIVIDAD ¿Qué es un cuento?</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778325870479-8vyix7tip</odePageId>
+          <odeBlockId>block-1778328313751-2g8bkphqh</odeBlockId>
+          <odeIdeviceId>idevice-1778328313749-gbfq9e71l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Abre este vídeo para conocer las características del cuento y saber cómo hacerlo para crear tu historia y ayudar a Píxel.</p>
+<figure class="exe-figure exe-media position-center" style="width: 560px;" id="fig_csfxfve5j"><iframe width="560" height="314" src="https://www.youtube.com/embed/2_YIchvFp0g" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Smile and Learn - Español</span>. <a href="https://www.youtube.com/watch?v=2_YIchvFp0g" target="_blank" class="title" rel="noopener"><em>EL CUENTO para niños 🐉​​ Características y elementos 📚​​ Lengua para niños</em></a></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778328313749-gbfq9e71l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Abre este vídeo para conocer las características del cuento y saber cómo hacerlo para crear tu historia y ayudar a Píxel.</p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\" id=\"fig_csfxfve5j\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/2_YIchvFp0g\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Smile and Learn - Español</span>. <a href=\"https://www.youtube.com/watch?v=2_YIchvFp0g\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>EL CUENTO para niños 🐉​​ Características y elementos 📚​​ Lengua para niños</em></a></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778325870479-8vyix7tip</odePageId>
+      <odeBlockId>block-1778328704520-pgte84ccf</odeBlockId>
+      <blockName>¿Cómo crearemos nuestro cuento digital?</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778325870479-8vyix7tip</odePageId>
+          <odeBlockId>block-1778328704520-pgte84ccf</odeBlockId>
+          <odeIdeviceId>idevice-1778328704517-1n39vfiaq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ve el vídeo de ejemplo para que podamos estar muy preparados al crear nuestro cuento para ayudar a Píxel.</p>
+<figure class="exe-figure exe-media position-center" style="width: 560px;" id="fig_kjpjw46aw"><iframe width="560" height="314" src="https://www.youtube.com/embed/_mR5GqIRZnU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Mª JESÚS JIMÉNEZ</span>. <a href="https://www.youtube.com/watch?v=_mR5GqIRZnU" target="_blank" class="title" rel="noopener"><em>CREACIÓN DE CUENTOS CON BOOK CREATOR</em></a></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778328704517-1n39vfiaq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ve el vídeo de ejemplo para que podamos estar muy preparados al crear nuestro cuento para ayudar a Píxel.</p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\" id=\"fig_kjpjw46aw\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/_mR5GqIRZnU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Mª JESÚS JIMÉNEZ</span>. <a href=\"https://www.youtube.com/watch?v=_mR5GqIRZnU\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>CREACIÓN DE CUENTOS CON BOOK CREATOR</em></a></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778325870479-8vyix7tip</odePageId>
+      <odeBlockId>block-1778180464892-klz59oc4f</odeBlockId>
+      <blockName>TU IDENTIDAD DIGITAL, PROTEGE TUS DATOS</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778325870479-8vyix7tip</odePageId>
+          <odeBlockId>block-1778180464892-klz59oc4f</odeBlockId>
+          <odeIdeviceId>idevice-1778180464889-r3rul06q1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/TU IDENTIDAD DIGITAL (2)_page-0001.jpg" width="1536" height="3840" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778180464889-r3rul06q1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/TU IDENTIDAD DIGITAL (2)_page-0001.jpg\" width=\"1536\" height=\"3840\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778327745615-kh2jp7ug9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MISIÓN 1: CREANDO NUESTRO MUNDO DIGITAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MISIÓN 1: CREANDO NUESTRO MUNDO DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MISIÓN 1: CREANDO NUESTRO MUNDO DIGITAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778327745615-kh2jp7ug9</odePageId>
+      <odeBlockId>block-1778328196741-awkvl81o1</odeBlockId>
+      <blockName>Escucha a Píxel para conocer la primera misión</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778327745615-kh2jp7ug9</odePageId>
+          <odeBlockId>block-1778328196741-awkvl81o1</odeBlockId>
+          <odeIdeviceId>idevice-1778328196739-2qu8koa8r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 560px;"><video width="560" height="315" controls="controls">
+<source src="{{context_path}}/content/resources/VIDEO 2.mp4" /></video>
+<figcaption class="figcaption"><span class="author">Ana Isabel Rodríguez Fernández</span>. <span class="title"><em>CREANDO NUESTRO MUNDO DIGITAL</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778328196739-2qu8koa8r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 560px;\"><video width=\"560\" height=\"315\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/VIDEO 2.mp4\" /></video>\n<figcaption class=\"figcaption\"><span class=\"author\">Ana Isabel Rodríguez Fernández</span>. <span class=\"title\"><em>CREANDO NUESTRO MUNDO DIGITAL</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778327745615-kh2jp7ug9</odePageId>
+      <odeBlockId>block-1778328861630-u9t79r97i</odeBlockId>
+      <blockName>ACTIVIDAD</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778327745615-kh2jp7ug9</odePageId>
+          <odeBlockId>block-1778328861630-u9t79r97i</odeBlockId>
+          <odeIdeviceId>idevice-1778328861629-xigrkitb7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Estáis preparado equipo para comenzar la creación de vuestro cuento?</p>
+<p>Coged vuestros ordenadores y poneos manos a la obra a diseñar los personajes que aparecen en vuestro cuento. Para ello, utilizaremos una herramienta llamada CANVA para dar vida a vuestros personajes. </p>
+<p>Para acceder a la página, abrid este enlace: <a href="https://www.canva.com/">https://www.canva.com/</a> </p>
+<p><span style="background-color: #3598db;"><strong>¿Cómo utilizar canva?</strong></span></p>
+<p>Para saber más sobre como utilizar esta herramienta, visualiza el vídeo.</p>
+<figure class="exe-figure exe-media position-center" style="width: 551px;" id="fig_ztibmqi6y"><iframe width="551" height="281" src="https://www.youtube.com/embed/qL31Tec0fVg?t=8s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Eleraning Aulas</span>. <a href="https://www.youtube.com/watch?v=qL31Tec0fVg&amp;t=13s" target="_blank" class="title" rel="noopener"><em>Canva para niños| Diseña tus propios proyectos. #canva #cursosonline #niños</em></a></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778328861629-xigrkitb7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Estáis preparado equipo para comenzar la creación de vuestro cuento?</p>\n<p>Coged vuestros ordenadores y poneos manos a la obra a diseñar los personajes que aparecen en vuestro cuento. Para ello, utilizaremos una herramienta llamada CANVA para dar vida a vuestros personajes. </p>\n<p>Para acceder a la página, abrid este enlace: <a href=\"https://www.canva.com/\">https://www.canva.com/</a> </p>\n<p><span style=\"background-color: #3598db;\"><strong>¿Cómo utilizar canva?</strong></span></p>\n<p>Para saber más sobre como utilizar esta herramienta, visualiza el vídeo.</p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 551px;\" id=\"fig_ztibmqi6y\"><iframe width=\"551\" height=\"281\" src=\"https://www.youtube.com/embed/qL31Tec0fVg?t=8s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Eleraning Aulas</span>. <a href=\"https://www.youtube.com/watch?v=qL31Tec0fVg&amp;t=13s\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>Canva para niños| Diseña tus propios proyectos. #canva #cursosonline #niños</em></a></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778327745615-kh2jp7ug9</odePageId>
+      <odeBlockId>block-1778334833383-yd9rqspjh</odeBlockId>
+      <blockName>EJEMPLOS DE IMÁGENES</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778327745615-kh2jp7ug9</odePageId>
+          <odeBlockId>block-1778334833383-yd9rqspjh</odeBlockId>
+          <odeIdeviceId>idevice-1778334833382-3hj6ylhvw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hola, equipo!</p>
+<p>Os comparto una página muy útil para seleccionar las imágenes que podéis añadir a vuestro cuento!</p>
+<p><a href="https://www.magnific.com/es/imagenes">https://www.magnific.com/es/imagenes</a> </p>
+<p>Magnific. (s.f.). Imágenes. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778334833382-3hj6ylhvw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hola, equipo!</p>\n<p>Os comparto una página muy útil para seleccionar las imágenes que podéis añadir a vuestro cuento!</p>\n<p><a href=\"https://www.magnific.com/es/imagenes\">https://www.magnific.com/es/imagenes</a> </p>\n<p>Magnific. (s.f.). Imágenes. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778331621406-04nm34ks3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MISIÓN 2: LA CHISPA DE LA IDEA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MISIÓN 2: LA CHISPA DE LA IDEA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>MISIÓN 2: LA CHISPA DE LA IDEA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778331621406-04nm34ks3</odePageId>
+      <odeBlockId>block-1778333555829-hn1mni7hv</odeBlockId>
+      <blockName>ES EL MOMENTO DE ESCRIBIR LA HISTORIA DE NUESTRO CUENTO</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778331621406-04nm34ks3</odePageId>
+          <odeBlockId>block-1778333555829-hn1mni7hv</odeBlockId>
+          <odeIdeviceId>idevice-1778333555826-1gbhyea0g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 560px;" id="fig_3a0xq4jhf"><video width="560" height="315" controls="controls" data-mce-fragment="1">
+<source src="{{context_path}}/content/resources/Diseño sin título.mp4" type="video/mp4" /></video>
+<figcaption class="figcaption"><span class="author">Ana Isabel Rodríguez Fernández</span>. <span class="title"><em>ESCRIBIMOS NUESTRO CUENTO</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778333555826-1gbhyea0g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 560px;\" id=\"fig_3a0xq4jhf\"><video width=\"560\" height=\"315\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"{{context_path}}/content/resources/Diseño sin título.mp4\" type=\"video/mp4\" /></video>\n<figcaption class=\"figcaption\"><span class=\"author\">Ana Isabel Rodríguez Fernández</span>. <span class=\"title\"><em>ESCRIBIMOS NUESTRO CUENTO</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778331621406-04nm34ks3</odePageId>
+      <odeBlockId>block-1778333635104-86nsk61rs</odeBlockId>
+      <blockName>ACTIVIDAD: MANOS A LA OBRA</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778331621406-04nm34ks3</odePageId>
+          <odeBlockId>block-1778333635104-86nsk61rs</odeBlockId>
+          <odeIdeviceId>idevice-1778333635103-wd8b9n72w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Llegó la hora de escribir nuestra historia que le de vida a nuestros personajes creados.</p>
+<p>Para ello, cada equipo tendrá un ordenador donde escribiréis:</p>
+<p>- La historia.</p>
+<p>- El problema (nudo).</p>
+<p>- El final (desenlace).</p>
+<p>Para escribir todo ello, debéis entrar en este enlace <a href="https://docs.google.com/document/u/0/?tgif=d">https://docs.google.com/document/u/0/?tgif=d</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778333635103-wd8b9n72w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Llegó la hora de escribir nuestra historia que le de vida a nuestros personajes creados.</p>\n<p>Para ello, cada equipo tendrá un ordenador donde escribiréis:</p>\n<p>- La historia.</p>\n<p>- El problema (nudo).</p>\n<p>- El final (desenlace).</p>\n<p>Para escribir todo ello, debéis entrar en este enlace <a href=\"https://docs.google.com/document/u/0/?tgif=d\">https://docs.google.com/document/u/0/?tgif=d</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778333988188-lp5owp7ku</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MISIÓN 3: DAMOS VIDA A NUESTRO CUENTO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MISIÓN 3: DAMOS VIDA A NUESTRO CUENTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778333988188-lp5owp7ku</odePageId>
+      <odeBlockId>block-1778334249546-io25x5ok8</odeBlockId>
+      <blockName>ÚLTIMA MISIÓN: CREAR NUESTRO CUENTO DIGITAL</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778333988188-lp5owp7ku</odePageId>
+          <odeBlockId>block-1778334249546-io25x5ok8</odeBlockId>
+          <odeIdeviceId>idevice-1778334249540-ohmjy3eiv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 560px;" id="fig_fzy1zckkk"><video width="560" height="315" controls="controls" data-mce-fragment="1">
+<source src="{{context_path}}/content/resources/VIDEO 4.mp4" type="video/mp4" /></video>
+<figcaption class="figcaption"><span class="author">Ana Isabel Rodríguez Fernández</span>. <span class="title"><em>CREAMOS NUESTRO CUENTO DIGITAL</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778334249540-ohmjy3eiv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 560px;\" id=\"fig_fzy1zckkk\"><video width=\"560\" height=\"315\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"{{context_path}}/content/resources/VIDEO 4.mp4\" type=\"video/mp4\" /></video>\n<figcaption class=\"figcaption\"><span class=\"author\">Ana Isabel Rodríguez Fernández</span>. <span class=\"title\"><em>CREAMOS NUESTRO CUENTO DIGITAL</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778333988188-lp5owp7ku</odePageId>
+      <odeBlockId>block-1778334383021-f95k4znny</odeBlockId>
+      <blockName>EJEMPLO DE CUENTO DIGITAL</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778333988188-lp5owp7ku</odePageId>
+          <odeBlockId>block-1778334383021-f95k4znny</odeBlockId>
+          <odeIdeviceId>idevice-1778334383019-i11ek5t1s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hola equipo, antes de realizar nuestro cuento. Os dejo un ejemplo de cuento digital para que tengáis un idea final de cómo quedará vuestra historia.</p>
+<p><a href="https://app.bookcreator.com/read/library/-LUB1YDtBIk6j7N0yukF/FI1jKsDURCdlFqjcModc0FUoN8U2/7h2wd01NQCGn4jglorF9dw?discover=https%3A%2F%2Fapp.bookcreator.com%2Fdiscover%23ideas&amp;nopreview=true">https://app.bookcreator.com/read/library/-LUB1YDtBIk6j7N0yukF/FI1jKsDURCdlFqjcModc0FUoN8U2/7h2wd01NQCGn4jglorF9dw?discover=https%3A%2F%2Fapp.bookcreator.com%2Fdiscover%23ideas&amp;nopreview=true</a> </p>
+<p>Creado por: por Ms. Elliott's K Class.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778334383019-i11ek5t1s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hola equipo, antes de realizar nuestro cuento. Os dejo un ejemplo de cuento digital para que tengáis un idea final de cómo quedará vuestra historia.</p>\n<p><a href=\"https://app.bookcreator.com/read/library/-LUB1YDtBIk6j7N0yukF/FI1jKsDURCdlFqjcModc0FUoN8U2/7h2wd01NQCGn4jglorF9dw?discover=https%3A%2F%2Fapp.bookcreator.com%2Fdiscover%23ideas&amp;nopreview=true\">https://app.bookcreator.com/read/library/-LUB1YDtBIk6j7N0yukF/FI1jKsDURCdlFqjcModc0FUoN8U2/7h2wd01NQCGn4jglorF9dw?discover=https%3A%2F%2Fapp.bookcreator.com%2Fdiscover%23ideas&amp;nopreview=true</a> </p>\n<p>Creado por: por Ms. Elliott's K Class.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778333988188-lp5owp7ku</odePageId>
+      <odeBlockId>block-1778260883261-y1cujqxce</odeBlockId>
+      <blockName>COMENZAMOS A CREAR</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778333988188-lp5owp7ku</odePageId>
+          <odeBlockId>block-1778260883261-y1cujqxce</odeBlockId>
+          <odeIdeviceId>idevice-1778260883259-g4d2lvxja</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-interactive-video-content-before"><p>Para saber cómo editar el cuento en la aplicación que utilizaremos, os dejo por aquí un vídeo tutorial de cómo funciona la aplicación Book Creator. </p></div><div class="game-evaluation-ids js-hidden" data-id="idevice-1778260883259-g4d2lvxja" data-evaluationb="false" data-evaluationid="8b7616be-f00c-4cca-93ec-b90c28a13b0f"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=i2Z1kSAMnm4?si=0ljpTAwRXaEItLkr">com/watch?v=i2Z1kSAMnm4?si=0ljpTAwRXaEItLkr</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[],"i18n":{"start":"Inicio","results":"Resultados","slide":"Diapositiva (fotograma)","score":"Puntuación","seen":"Visto","total":"Total","seeAll":"debe ver todo el contenido y contestar a las preguntas","noSlides":"El vídeo no tiene contenidos interactivos.","goOn":"Continuar","error":"Error","dataError":"Código no compatible","onlyOne":"Solo un vídeo interactivo por página.","cover":"Portada","fsWarning":"Salga del modo pantalla completa (tecla Esc) para ver la diapositiva","right":"¡Correcto!","wrong":"Incorrecto","sortableListInstructions":"Pinche y arrastre o use las flechas.","up":"Subir","down":"Bajar","rightAnswer":"Respuesta correcta:","notAnswered":"Por favor termine la actividad","check":"Comprobar","newWindow":"Ventana nueva","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgYouScore":"Su puntuación","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Vídeo interactivo","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"scorm":{"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":false,"evaluationID":"8b7616be-f00c-4cca-93ec-b90c28a13b0f","ideviceID":"idevice-1778260883259-g4d2lvxja","poster":"{{context_path}}/content/resources/book-creator.png","title":"BOOK CREATOR","description":"","coverType":"poster","posterDescription":"book-creator.png"}				</script>			</div><div class="exe-interactive-video-content-after"><p>Tecnología Educativa. Cuento con Book Creator/ Tutorial en español </p></div><p class="exe-interactive-video-poster sr-av"><img src="{{context_path}}/content/resources/book-creator.png" alt="book-creator.png" /></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778333988188-lp5owp7ku</odePageId>
+      <odeBlockId>block-1778334655275-3ec62fsub</odeBlockId>
+      <blockName>EMPEZAMOS</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778333988188-lp5owp7ku</odePageId>
+          <odeBlockId>block-1778334655275-3ec62fsub</odeBlockId>
+          <odeIdeviceId>idevice-1778334655273-ejaq4ujd8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora, llegó el momento de empezar a crear nuestro cuento digital.</p>
+<p>Tened preparado la creatividad y la imaginación y las ganas de empezar a crear para ayudar a Píxel a recuperar sus colores. </p>
+<p>Abrid este enlace que os llevará directamente a la aplicación Book Creator.</p>
+<p><a href="https://bookcreator.com/">https://bookcreator.com/</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778334655273-ejaq4ujd8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora, llegó el momento de empezar a crear nuestro cuento digital.</p>\n<p>Tened preparado la creatividad y la imaginación y las ganas de empezar a crear para ayudar a Píxel a recuperar sus colores. </p>\n<p>Abrid este enlace que os llevará directamente a la aplicación Book Creator.</p>\n<p><a href=\"https://bookcreator.com/\">https://bookcreator.com/</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778335472756-2y05e1q66</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>MISIÓN FINAL: COMPARTIMOS NUESTROS CUENTOS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>MISIÓN FINAL: COMPARTIMOS NUESTROS CUENTOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778335472756-2y05e1q66</odePageId>
+      <odeBlockId>block-1778335479398-jlfezs569</odeBlockId>
+      <blockName>ENSEÑAMOS NUESTROS CUENTOS DIGITALES</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778335472756-2y05e1q66</odePageId>
+          <odeBlockId>block-1778335479398-jlfezs569</odeBlockId>
+          <odeIdeviceId>idevice-1778335479396-9iwf7qnsu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 560px;" id="fig_x92hu2u29"><video width="560" height="315" controls="controls" data-mce-fragment="1">
+<source src="{{context_path}}/content/resources/video 5.mp4" type="video/mp4" /></video>
+<figcaption class="figcaption"><span class="author">Ana Isabel Rodríguez Fernández</span>. <span class="title"><em>GRACIAS Y DESPEDIDA PÍXEL</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778335479396-9iwf7qnsu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 560px;\" id=\"fig_x92hu2u29\"><video width=\"560\" height=\"315\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"{{context_path}}/content/resources/video 5.mp4\" type=\"video/mp4\" /></video>\n<figcaption class=\"figcaption\"><span class=\"author\">Ana Isabel Rodríguez Fernández</span>. <span class=\"title\"><em>GRACIAS Y DESPEDIDA PÍXEL</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778335472756-2y05e1q66</odePageId>
+      <odeBlockId>block-1778335592124-7rb59fh3m</odeBlockId>
+      <blockName>ACTIVIDAD FINAL</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778335472756-2y05e1q66</odePageId>
+          <odeBlockId>block-1778335592124-7rb59fh3m</odeBlockId>
+          <odeIdeviceId>idevice-1778335592122-url0yuzbb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡¡Enhorabuena equipo, hemos llegado al final de la misión y hemos ayudado a Píxel a recuperar sus colores!!</p>
+<p>Ahora debéis mostrar en clase en la pizarra digital el cuento digital creado a vuestros compañeros y a la seño y sobre todo, debéis contar el cuento con energía y gran entusiasmo.</p>
+<p>Para ello, debéis mandar al correo electrónico de la seño el enlace del cuento.</p>
+<p>¡SENTIROS MUY ORGULLOSOS DEL GRAN TRABAJO REALIZADO!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778335592122-url0yuzbb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡¡Enhorabuena equipo, hemos llegado al final de la misión y hemos ayudado a Píxel a recuperar sus colores!!</p>\n<p>Ahora debéis mostrar en clase en la pizarra digital el cuento digital creado a vuestros compañeros y a la seño y sobre todo, debéis contar el cuento con energía y gran entusiasmo.</p>\n<p>Para ello, debéis mandar al correo electrónico de la seño el enlace del cuento.</p>\n<p>¡SENTIROS MUY ORGULLOSOS DEL GRAN TRABAJO REALIZADO!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778335472756-2y05e1q66</odePageId>
+      <odeBlockId>block-1778336753467-k7ycr9b79</odeBlockId>
+      <blockName>DIPLOMA CONSEGUIDO</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778335472756-2y05e1q66</odePageId>
+          <odeBlockId>block-1778336753467-k7ycr9b79</odeBlockId>
+          <odeIdeviceId>idevice-1778336753464-bppb8itss</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/1ºB.png" width="1536" height="1086" alt="" />
+<figcaption class="figcaption"><span class="author">Ana Isabel Rodríguez Fernández</span>. <span class="title"><em>DIPLOMA PÍXEL</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778336753464-bppb8itss","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/1ºB.png\" width=\"1536\" height=\"1086\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Ana Isabel Rodríguez Fernández</span>. <span class=\"title\"><em>DIPLOMA PÍXEL</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy91a1v-rbwmoek98</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778335976739-budwqxpym</odePageId>
+  <odeParentPageId>page-moy91a1v-rbwmoek98</odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778335976739-budwqxpym</odePageId>
+      <odeBlockId>block-1778179420458-axhm017fu</odeBlockId>
+      <blockName>¿En qué consiste el proyecto de esta SdA?</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778335976739-budwqxpym</odePageId>
+          <odeBlockId>block-1778179420458-axhm017fu</odeBlockId>
+          <odeIdeviceId>idevice-1778179420454-hbv8ssqv8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/2.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/3.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/4.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/5.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/6.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/7.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/8.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/9.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/10.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/11.png" width="1536" height="864" alt="" /><img src="{{context_path}}/content/resources/12.png" width="1536" height="864" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778179420454-hbv8ssqv8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/2.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/3.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/4.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/5.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/6.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/7.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/8.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/9.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/10.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/11.png\" width=\"1536\" height=\"864\" alt=\"\" /><img src=\"{{context_path}}/content/resources/12.png\" width=\"1536\" height=\"864\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778336042779-f3m284vg1</odePageId>
+  <odeParentPageId>page-moy91a1v-rbwmoek98</odeParentPageId>
+  <pageName>HERRAMIENTA BOOK CREATOR PARA CREAR NUESTRO CUENTO ILUSTRADO DIGITAL</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTA BOOK CREATOR PARA CREAR NUESTRO CUENTO ILUSTRADO DIGITAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778336042779-f3m284vg1</odePageId>
+      <odeBlockId>block-1778336138260-6gj4sstkg</odeBlockId>
+      <blockName>¿Por qué he elegido Book Creator?</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778336042779-f3m284vg1</odePageId>
+          <odeBlockId>block-1778336138260-6gj4sstkg</odeBlockId>
+          <odeIdeviceId>idevice-1778336138259-v8g3z2pqs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>He elegido esta herramienta porque es muy intuitiva y visual, lo que facilita que el alumnado de 1º de Primaria pueda participar activamente en la creación del cuento sin necesidad de tener una alta competencia digital. Pueden añadir texto, imágenes, dibujos e incluso grabar su voz, lo que hace que el proceso sea más dinámico y motivador.</p>
+<p>Además, Book Creator permite trabajar distintos lenguajes a la vez: el escrito, el visual y el oral. Esto es especialmente importante porque no todo el alumnado tiene el mismo nivel de expresión escrita, y así todos pueden aportar de alguna manera al producto final. También es un recurso muy útil para alumnado que no conoce bien el español, ya que el apoyo visual a través de imágenes y dibujos facilita la comprensión y les permite participar en la actividad sin depender únicamente del lenguaje escrito.</p>
+<p>También encaja muy bien con una metodología activa, motivadora y participativa que utilizo en mis clases, ya que el alumnado no solo consume contenido, sino que lo crea y se siente protagonista de su propio aprendizaje. De este modo, el aprendizaje tiene más sentido para ellos/as, al estar elaborando su propio cuento a partir de vocabulario y situaciones cotidianas de su vida diaria.</p>
+<p>En cuanto al contexto del centro, contamos con ordenadores Chromebooks y acceso a internet, lo que hace que su uso sea viable y accesible. Además, es una herramienta que funciona directamente en el navegador, por lo que no requiere instalaciones complejas y se adapta perfectamente a este tipo de dispositivos.</p>
+<p>Por otro lado, considero que es adecuada para la edad del alumnado porque permite un uso guiado pero también fomenta la autonomía progresiva, adaptándose a diferentes ritmos de aprendizaje.</p>
+<p>Finalmente, una de las ventajas que más valoro es que permite compartir fácilmente el producto final con las familias, lo que favorece la implicación de estas en el proceso educativo y da visibilidad al trabajo realizado en el aula.</p>
+<p>En definitiva, utilizo Book Creator porque permite crear un producto significativo, accesible y motivador, desarrollando al mismo tiempo la creatividad y la competencia digital del alumnado, ampliando así su vocabulario.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778336138259-v8g3z2pqs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>He elegido esta herramienta porque es muy intuitiva y visual, lo que facilita que el alumnado de 1º de Primaria pueda participar activamente en la creación del cuento sin necesidad de tener una alta competencia digital. Pueden añadir texto, imágenes, dibujos e incluso grabar su voz, lo que hace que el proceso sea más dinámico y motivador.</p>\n<p>Además, Book Creator permite trabajar distintos lenguajes a la vez: el escrito, el visual y el oral. Esto es especialmente importante porque no todo el alumnado tiene el mismo nivel de expresión escrita, y así todos pueden aportar de alguna manera al producto final. También es un recurso muy útil para alumnado que no conoce bien el español, ya que el apoyo visual a través de imágenes y dibujos facilita la comprensión y les permite participar en la actividad sin depender únicamente del lenguaje escrito.</p>\n<p>También encaja muy bien con una metodología activa, motivadora y participativa que utilizo en mis clases, ya que el alumnado no solo consume contenido, sino que lo crea y se siente protagonista de su propio aprendizaje. De este modo, el aprendizaje tiene más sentido para ellos/as, al estar elaborando su propio cuento a partir de vocabulario y situaciones cotidianas de su vida diaria.</p>\n<p>En cuanto al contexto del centro, contamos con ordenadores Chromebooks y acceso a internet, lo que hace que su uso sea viable y accesible. Además, es una herramienta que funciona directamente en el navegador, por lo que no requiere instalaciones complejas y se adapta perfectamente a este tipo de dispositivos.</p>\n<p>Por otro lado, considero que es adecuada para la edad del alumnado porque permite un uso guiado pero también fomenta la autonomía progresiva, adaptándose a diferentes ritmos de aprendizaje.</p>\n<p>Finalmente, una de las ventajas que más valoro es que permite compartir fácilmente el producto final con las familias, lo que favorece la implicación de estas en el proceso educativo y da visibilidad al trabajo realizado en el aula.</p>\n<p>En definitiva, utilizo Book Creator porque permite crear un producto significativo, accesible y motivador, desarrollando al mismo tiempo la creatividad y la competencia digital del alumnado, ampliando así su vocabulario.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778336061037-w9jek80n0</odePageId>
+  <odeParentPageId>page-moy91a1v-rbwmoek98</odeParentPageId>
+  <pageName>HERRAMIENTAS ÚTILES PARA DOCENTES</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS ÚTILES PARA DOCENTES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778336061037-w9jek80n0</odePageId>
+      <odeBlockId>block-1778261405725-tc5leg2it</odeBlockId>
+      <blockName>Os comparto mi notion para que podáis ver mis herramientas digitales indispensables como docente</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778336061037-w9jek80n0</odePageId>
+          <odeBlockId>block-1778261405725-tc5leg2it</odeBlockId>
+          <odeIdeviceId>idevice-1778261405722-jyrxbys7w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.notion.so/9dfb517242c5823ba709810114b69d83?v=043b517242c582c79ee208b5e8290ad4&source=copy_link" title="HERRAMIENTAS DIGITALES DOCENTES">https://www.notion.so/9dfb517242c5823ba709810114b69d83?v=043b517242c582c79ee208b5e8290ad4&source=copy_link</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261405722-jyrxbys7w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.notion.so/9dfb517242c5823ba709810114b69d83?v=043b517242c582c79ee208b5e8290ad4&source=copy_link\" title=\"HERRAMIENTAS DIGITALES DOCENTES\">https://www.notion.so/9dfb517242c5823ba709810114b69d83?v=043b517242c582c79ee208b5e8290ad4&source=copy_link</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778336187712-lhfhqq6fp</odePageId>
+  <odeParentPageId>page-moy91a1v-rbwmoek98</odeParentPageId>
+  <pageName>LÍNEA TEMPORAL DE ACTIVIDADES</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL DE ACTIVIDADES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778336187712-lhfhqq6fp</odePageId>
+      <odeBlockId>block-1778261687370-gtj3c6x16</odeBlockId>
+      <blockName>SECUENCIACIÓN DE LAS ACTIVIDADES</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778336187712-lhfhqq6fp</odePageId>
+          <odeBlockId>block-1778261687370-gtj3c6x16</odeBlockId>
+          <odeIdeviceId>idevice-1778261687364-38s38gldm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/MAPA MENTAL.jpg" title="MAPA MENTAL" width="1310" height="687" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778261687364-38s38gldm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/MAPA MENTAL.jpg\" title=\"MAPA MENTAL\" width=\"1310\" height=\"687\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778336236209-6d564oafy</odePageId>
+  <odeParentPageId>page-moy91a1v-rbwmoek98</odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778336236209-6d564oafy</odePageId>
+      <odeBlockId>block-1778336244771-jzwhcgin7</odeBlockId>
+      <blockName>Criterios de evaluación asociados a las actividades</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778336236209-6d564oafy</odePageId>
+          <odeBlockId>block-1778336244771-jzwhcgin7</odeBlockId>
+          <odeIdeviceId>idevice-1778336244771-crp0bw1hd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778262387612-8fk4tcevp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778336236209-6d564oafy</odePageId>
+      <odeBlockId>block-1778262676299-wh9kjjwyi</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778336236209-6d564oafy</odePageId>
+          <odeBlockId>block-1778262676299-wh9kjjwyi</odeBlockId>
+          <odeIdeviceId>idevice-1778262676296-g4t0itxzn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Rúbrica de Evaluación del Cuento Ilustrado</strong><br /><span style="color: #000000; background-color: #fbeeb8;">¿Qué es y para qué la utilizo?</span><br />La rúbrica es el instrumento principal que uso para evaluar el cuento ilustrado digital que cada alumno y alumna crea a lo largo del proyecto. Me permite tener una visión clara y organizada de lo que han aprendido, valorando tanto el camino recorrido como el resultado final. Es un instrumento que me da mucha información concreta: no solo sé si un niño o una niña ha llegado al objetivo, sino en qué punto del camino se encuentra y qué necesita para seguir avanzando.</p>
+<p><span style="background-color: #fbeeb8;">¿Cuándo la aplico?</span><br />La aplico en dos momentos clave del proyecto:</p>
+<ul>
+<li>Durante la tarea 5: cuando los niños y niñas están creando su cuento digital en Book Creator.</li>
+<li>Durante la tarea 6: cuando presentan su cuento oralmente al resto de la clase.</li>
+</ul>
+<p><span style="background-color: #fbeeb8;">¿Qué evalúo con ella?</span><br />A través de la rúbrica valoro seis aspectos fundamentales del proyecto:</p>
+<ul style="list-style-type: circle;">
+<li>La estructura del cuento: si tiene un inicio, un nudo y un desenlace claros.</li>
+<li>La coherencia del texto: si las ideas se entienden y tienen sentido entre sí.</li>
+<li>La creatividad de la historia: si la propuesta es original e imaginativa.</li>
+<li>La relación entre el texto y las ilustraciones: si se complementan y se apoyan.</li>
+<li>El uso de las herramientas digitales: si han sabido manejar Book Creator y Google Docs.</li>
+<li>La expresión oral en la exposición: si presentan su cuento con seguridad y claridad.</li>
+</ul>
+<p><strong>RÚBRICA</strong></p>
+<p><strong><img src="{{context_path}}/content/resources/mceclip4.png" /></strong></p>
+<p><span style="background-color: #fbeeb8;">¿Cómo recojo la información?</span><br />Completo la rúbrica mientras observo directamente tanto el proceso de trabajo como el producto final, apoyándome en evidencias concretas: lo que han escrito en Google Docs, el cuento terminado en Book Creator y cómo lo presentan ante sus compañeros y compañeras. Para analizar los resultados utilizo cuatro niveles: Iniciado, En proceso, Conseguido y Avanzado. Esto me permite identificar fácilmente los puntos fuertes de cada alumno o alumna, detectar en qué aspectos necesitan más apoyo y ver qué dificultades son comunes en todo el grupo, como por ejemplo la estructuración del cuento o el uso de conectores.</p>
+<p><br /><span style="background-color: #fbeeb8;">¿Cómo trato las variables que pueden surgir?</span><br />Soy consciente de que en un aula de 1º de Primaria pueden darse muchas situaciones que influyen en los resultados: alumnado con necesidades específicas, diferentes ritmos de aprendizaje, dificultades con la lectoescritura o con el manejo de dispositivos digitales. Para ello, adapto los criterios de evaluación cuando es necesario, ofrezco más tiempo o apoyo individualizado y, en algunos casos, valoro el proceso por encima del producto.</p>
+<p><br /><span style="background-color: #fbeeb8;">¿Para qué me sirven los datos más allá de la nota?</span><br />Los datos que obtengo de la rúbrica no los uso solo para calificar, sino para mejorar mi práctica y acompañar mejor a mis alumnos y alumnas. Concretamente me sirven para:</p>
+<ul style="list-style-type: square;">
+<li>Adaptar futuras actividades de escritura según las dificultades detectadas.</li>
+<li>Reforzar aspectos que todo el grupo necesita trabajar, como la cohesión textual o el uso de conectores.</li>
+<li>Ofrecer un feedback claro, sencillo y útil a cada niño o niña.</li>
+<li>Informar a las familias del progreso real de sus hijos e hijas, con datos concretos y ejemplos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778262676296-g4t0itxzn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Rúbrica de Evaluación del Cuento Ilustrado</strong><br /><span style=\"color: #000000; background-color: #fbeeb8;\">¿Qué es y para qué la utilizo?</span><br />La rúbrica es el instrumento principal que uso para evaluar el cuento ilustrado digital que cada alumno y alumna crea a lo largo del proyecto. Me permite tener una visión clara y organizada de lo que han aprendido, valorando tanto el camino recorrido como el resultado final. Es un instrumento que me da mucha información concreta: no solo sé si un niño o una niña ha llegado al objetivo, sino en qué punto del camino se encuentra y qué necesita para seguir avanzando.</p>\n<p><span style=\"background-color: #fbeeb8;\">¿Cuándo la aplico?</span><br />La aplico en dos momentos clave del proyecto:</p>\n<ul>\n<li>Durante la tarea 5: cuando los niños y niñas están creando su cuento digital en Book Creator.</li>\n<li>Durante la tarea 6: cuando presentan su cuento oralmente al resto de la clase.</li>\n</ul>\n<p><span style=\"background-color: #fbeeb8;\">¿Qué evalúo con ella?</span><br />A través de la rúbrica valoro seis aspectos fundamentales del proyecto:</p>\n<ul style=\"list-style-type: circle;\">\n<li>La estructura del cuento: si tiene un inicio, un nudo y un desenlace claros.</li>\n<li>La coherencia del texto: si las ideas se entienden y tienen sentido entre sí.</li>\n<li>La creatividad de la historia: si la propuesta es original e imaginativa.</li>\n<li>La relación entre el texto y las ilustraciones: si se complementan y se apoyan.</li>\n<li>El uso de las herramientas digitales: si han sabido manejar Book Creator y Google Docs.</li>\n<li>La expresión oral en la exposición: si presentan su cuento con seguridad y claridad.</li>\n</ul>\n<p><strong>RÚBRICA</strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></strong></p>\n<p><span style=\"background-color: #fbeeb8;\">¿Cómo recojo la información?</span><br />Completo la rúbrica mientras observo directamente tanto el proceso de trabajo como el producto final, apoyándome en evidencias concretas: lo que han escrito en Google Docs, el cuento terminado en Book Creator y cómo lo presentan ante sus compañeros y compañeras. Para analizar los resultados utilizo cuatro niveles: Iniciado, En proceso, Conseguido y Avanzado. Esto me permite identificar fácilmente los puntos fuertes de cada alumno o alumna, detectar en qué aspectos necesitan más apoyo y ver qué dificultades son comunes en todo el grupo, como por ejemplo la estructuración del cuento o el uso de conectores.</p>\n<p><br /><span style=\"background-color: #fbeeb8;\">¿Cómo trato las variables que pueden surgir?</span><br />Soy consciente de que en un aula de 1º de Primaria pueden darse muchas situaciones que influyen en los resultados: alumnado con necesidades específicas, diferentes ritmos de aprendizaje, dificultades con la lectoescritura o con el manejo de dispositivos digitales. Para ello, adapto los criterios de evaluación cuando es necesario, ofrezco más tiempo o apoyo individualizado y, en algunos casos, valoro el proceso por encima del producto.</p>\n<p><br /><span style=\"background-color: #fbeeb8;\">¿Para qué me sirven los datos más allá de la nota?</span><br />Los datos que obtengo de la rúbrica no los uso solo para calificar, sino para mejorar mi práctica y acompañar mejor a mis alumnos y alumnas. Concretamente me sirven para:</p>\n<ul style=\"list-style-type: square;\">\n<li>Adaptar futuras actividades de escritura según las dificultades detectadas.</li>\n<li>Reforzar aspectos que todo el grupo necesita trabajar, como la cohesión textual o el uso de conectores.</li>\n<li>Ofrecer un feedback claro, sencillo y útil a cada niño o niña.</li>\n<li>Informar a las familias del progreso real de sus hijos e hijas, con datos concretos y ejemplos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778336236209-6d564oafy</odePageId>
+      <odeBlockId>block-1778263098006-sksdebbl9</odeBlockId>
+      <blockName>DIANA DE AUTOEVALUCIÓN DEL ALUMNADO</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778336236209-6d564oafy</odePageId>
+          <odeBlockId>block-1778263098006-sksdebbl9</odeBlockId>
+          <odeIdeviceId>idevice-1778263098005-w287afu68</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="background-color: #c2e0f4;">¿Qué es y para qué la utilizo?</span><br />La diana de evaluación es un instrumento visual muy sencillo que me encanta usar con niños y niñas de 1º de Primaria porque les permite reflexionar sobre su propio aprendizaje de una forma guiada y accesible para su edad. Creo profundamente en el valor de la autoevaluación desde edades tempranas: que un niño o una niña de seis años sea capaz de decir "esto me ha costado mucho" o "esto lo he hecho muy bien" es el primer paso para convertirse en un aprendiz más consciente y autónomo.</p>
+<p><span style="background-color: #c2e0f4;">¿Cuándo la aplico?</span><br />La aplico en la tarea 7, al final del proyecto, una vez que el alumnado ha terminado y presentado su cuento. Es el momento ideal para hacer una parada, mirar atrás y reflexionar sobre todo lo que han vivido y aprendido durante las semanas que ha durado el proyecto.</p>
+<p><span style="background-color: #c2e0f4;">¿Qué evalúa el alumnado?</span><br />Cada alumno y alumna se valora a sí mismo en cuatro aspectos clave del proyecto:</p>
+<ul>
+<li>He entendido y creado mi cuento.</li>
+<li>He participado en la escritura.</li>
+<li>He creado las ilustraciones.</li>
+<li>He usado las herramientas digitales correctamente.</li>
+</ul>
+<p>   <img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+<p><span style="background-color: #c2e0f4;">¿Cómo recojo la información?</span><br />Cada niño o niña marca su nivel en la diana, del centro hacia fuera, siempre de forma guiada por mí para asegurarme de que lo hacen con comprensión y sin agobios. El centro de la diana representa el nivel más bajo y el borde exterior el más alto. Se realizará con Google Forms adaptado a su nivel, con imágenes y un lenguaje muy sencillo.</p>
+<p><span style="background-color: #c2e0f4;">¿Cómo trato las variables que pueden surgir?</span><br />Con niños y niñas de seis años, la autoevaluación requiere mucha mediación por mi parte. Algunos tenderán a marcarse siempre en el nivel más alto porque quieren quedar bien, y otros, con menor autoestima, se valorarán por debajo de sus capacidades reales. Por eso acompaño el proceso con preguntas guiadas del tipo "¿recuerdas qué fue lo más difícil para ti?" o "¿hay algo que harías diferente la próxima vez?", para ayudarles a reflexionar de forma más ajustada y honesta. También tengo en cuenta que el alumnado con necesidades específicas puede necesitar que la diana se adapte visualmente o que la cumplimentemos juntos de forma individual.</p>
+<p><span style="background-color: #c2e0f4;">¿Cómo analizo los resultados y para qué me sirven?</span><br />Una vez recogidas todas las dianas, observo los patrones generales del grupo y los comparo con lo que yo he evaluado en la rúbrica. Esto me da información muy valiosa en varios sentidos:</p>
+<ul style="list-style-type: circle;">
+<li>Si hay mucha diferencia entre lo que el alumnado percibe y lo que yo he observado, puede indicar falta de autoconciencia o inseguridad, algo que necesito trabajar.</li>
+<li>Si la percepción coincide con mi evaluación, es señal de que el alumnado está desarrollando una buena capacidad de autorreflexión.</li>
+<li>Los datos me ayudan a ajustar mi enseñanza, mejorar la motivación del grupo y diseñar actividades más ajustadas a sus necesidades reales.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778263098005-w287afu68","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"background-color: #c2e0f4;\">¿Qué es y para qué la utilizo?</span><br />La diana de evaluación es un instrumento visual muy sencillo que me encanta usar con niños y niñas de 1º de Primaria porque les permite reflexionar sobre su propio aprendizaje de una forma guiada y accesible para su edad. Creo profundamente en el valor de la autoevaluación desde edades tempranas: que un niño o una niña de seis años sea capaz de decir \"esto me ha costado mucho\" o \"esto lo he hecho muy bien\" es el primer paso para convertirse en un aprendiz más consciente y autónomo.</p>\n<p><span style=\"background-color: #c2e0f4;\">¿Cuándo la aplico?</span><br />La aplico en la tarea 7, al final del proyecto, una vez que el alumnado ha terminado y presentado su cuento. Es el momento ideal para hacer una parada, mirar atrás y reflexionar sobre todo lo que han vivido y aprendido durante las semanas que ha durado el proyecto.</p>\n<p><span style=\"background-color: #c2e0f4;\">¿Qué evalúa el alumnado?</span><br />Cada alumno y alumna se valora a sí mismo en cuatro aspectos clave del proyecto:</p>\n<ul>\n<li>He entendido y creado mi cuento.</li>\n<li>He participado en la escritura.</li>\n<li>He creado las ilustraciones.</li>\n<li>He usado las herramientas digitales correctamente.</li>\n</ul>\n<p>   <img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p><span style=\"background-color: #c2e0f4;\">¿Cómo recojo la información?</span><br />Cada niño o niña marca su nivel en la diana, del centro hacia fuera, siempre de forma guiada por mí para asegurarme de que lo hacen con comprensión y sin agobios. El centro de la diana representa el nivel más bajo y el borde exterior el más alto. Se realizará con Google Forms adaptado a su nivel, con imágenes y un lenguaje muy sencillo.</p>\n<p><span style=\"background-color: #c2e0f4;\">¿Cómo trato las variables que pueden surgir?</span><br />Con niños y niñas de seis años, la autoevaluación requiere mucha mediación por mi parte. Algunos tenderán a marcarse siempre en el nivel más alto porque quieren quedar bien, y otros, con menor autoestima, se valorarán por debajo de sus capacidades reales. Por eso acompaño el proceso con preguntas guiadas del tipo \"¿recuerdas qué fue lo más difícil para ti?\" o \"¿hay algo que harías diferente la próxima vez?\", para ayudarles a reflexionar de forma más ajustada y honesta. También tengo en cuenta que el alumnado con necesidades específicas puede necesitar que la diana se adapte visualmente o que la cumplimentemos juntos de forma individual.</p>\n<p><span style=\"background-color: #c2e0f4;\">¿Cómo analizo los resultados y para qué me sirven?</span><br />Una vez recogidas todas las dianas, observo los patrones generales del grupo y los comparo con lo que yo he evaluado en la rúbrica. Esto me da información muy valiosa en varios sentidos:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Si hay mucha diferencia entre lo que el alumnado percibe y lo que yo he observado, puede indicar falta de autoconciencia o inseguridad, algo que necesito trabajar.</li>\n<li>Si la percepción coincide con mi evaluación, es señal de que el alumnado está desarrollando una buena capacidad de autorreflexión.</li>\n<li>Los datos me ayudan a ajustar mi enseñanza, mejorar la motivación del grupo y diseñar actividades más ajustadas a sus necesidades reales.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moy91a1z-virlbv7xn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>AUTORÍA</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>AUTORÍA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moy91a1z-virlbv7xn</odePageId>
+      <odeBlockId>block-1778178620924-tnscw7jp1</odeBlockId>
+      <blockName>CRÉDITOS</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moy91a1z-virlbv7xn</odePageId>
+          <odeBlockId>block-1778178620924-tnscw7jp1</odeBlockId>
+          <odeIdeviceId>idevice-1778178620921-ii1aiikxf</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" height="305" style="width: 99.954%;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th style="width: 16.421%;">Título</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 83.533%;"><span class="exe-prop-title">CREAMOS NUESTRO CUENTO ILUSTRADO DIGITAL</span></td>
+</tr>
+<tr>
+<th style="width: 16.421%;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 83.533%;"><span class="exe-prop-description">Este proyecto consistirá en la creación de un cuento ilustrado digital con la aplicación educativa Book Creator destinado a un grupo de 1º de Primaria.</span></td>
+</tr>
+<tr>
+<th style="width: 16.421%;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 83.533%;"><span class="exe-prop-author">Ana Isabel Rodríguez Fernández</span></td>
+</tr>
+<tr>
+<th style="width: 16.421%;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 83.533%;"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#5ae3e7;color:#000000;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
